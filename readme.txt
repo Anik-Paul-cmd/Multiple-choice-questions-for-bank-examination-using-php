@@ -55,3 +55,31 @@ Non-Functional Requirements:
 •	To understand the system for use it will take 10 minutes.
 •	The interface is user friendly and it will be well organized so that everybody feels comfortable.
 
+Implementation Details:
+Here, we have discussed about our project and give a short description about the system. We have follow agile which is one of the development process and we have also done extreme programming to develop the system. From the very beginning we drew four diagrams such as use case diagram, activity diagram, class diagram and sequence diagram for the system and for database ER diagram.
+As we follow extreme programming approach so in our system we have practiced the followings,
+•	Simple Design: The design in our system carries out the requirements only. Not more than that.
+•	Refactoring: In the project we have refactored our code as soon as there’s any improvement which helped us to keep the code simple and maintainable.
+•	Pair Programming: We developed our system in pair and every week we check each other work and provide feedback.
+•	Collective Ownership: We work on all area in the system and we can take the responsibilities.
+•	Continuous Integration: When a portion of our system have completed we integrated the system immediately.
+•	On-site Customer: A representative (our instructor) was always available as the end-user.
+
+Languages:
+•	HTML5
+•	CSS3
+•	JAVA SCRIPT
+•	BOOTSTAP
+•	PHP
+
+Code Implementation:
+•	Notepad++
+•	XAMPP(For local web server)
+
+Database:
+• MYSQL
+
+Conclusion and Limitations:
+To get a good job is the most necessary thing in recent time. For helping the students we developed this system so that they can confidently give bank exams and get the job. But the system is not ready to release in the public and there are some work e.g our system will not show Bangla and mathematical terms and we didn’t categorize the questions which we have to include in our system. So we will try to develops these things as early as possible.
+
+
